@@ -1,0 +1,55 @@
+h1 {
+	margin-left: 100px;
+}
+th {
+	width: 81px;
+	height: 35px;
+}
+td {
+	text-align: center;
+	height: 35px;
+}
+table {
+	margin-left: 200px;
+}
+table.items {
+	border-bottom: 2px solid black;
+	margin-left: 200px;
+}
+a {
+	display: inline-block;
+	height: 20px;
+	padding: 5px;
+	background-color: #cf2a27;
+	color: white;
+	text-decoration: none;
+	border: 2px solid black;
+	box-shadow: 2px 2px black;
+}
+h2 {
+	margin-left: 100px;
+}
+form {
+	width: 350px;
+	margin-left: 200px;
+}
+label {
+	display: inline-block;
+	width: 100px;
+}
+input {
+	margin-bottom: 10px;
+	width: 200px;
+}
+input[type="submit"] {
+	font-size: 20px;
+	color: white;
+	background-color: #2b78e4;
+	display: block;
+	margin-top: 180px;
+	margin-left: 210px;
+	height: 40px;
+	width: 100px;
+	border: 2px solid black;
+	box-shadow: 2px 2px black;
+}

@@ -1,0 +1,35 @@
+input[type="number"] {
+	width: 35px;
+}
+input[type="submit"] {
+	padding: 5px;
+	width: 50px;	
+	background-color: #009e0f;
+	border: 2px solid black;
+	box-shadow: 2px 2px black;
+	color: white;
+}
+h1 {
+	display: inline-block;
+}
+table {
+	margin-left: 250px;
+	text-align: left;
+}
+th {
+	height: 40px;
+	font-size: 20px;
+}
+td {
+	height: 40px;
+	font-size: 20px;
+	width: 130px;
+}
+a {
+	font-size: 28px;
+	margin-left: 700px;
+	color: black;
+}
+h1 {
+	margin-left: 150px;
+}
